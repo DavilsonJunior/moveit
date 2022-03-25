@@ -36,17 +36,15 @@
 ### Fotos
 
 <div>
-   <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/main/public/screenshots/home.png" width="400px">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/main/public/screenshots/home_time.png" width="400px">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/main/public/screenshots/challenge.png" width="400px">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/main/public/screenshots/level.png" width="400px">
-    <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/main/public/screenshots/levelup.png" width="400px">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/main/public/screenshots/levelupanimate.gif" width="400px">
+   <img src="https://user-images.githubusercontent.com/35976070/160056791-8dbad003-99f9-4d00-90a5-1448681fa772.png" width="400px">
+   <img src="https://user-images.githubusercontent.com/35976070/160056861-0b765e9b-59b4-4d74-ac57-35d45d8ddc61.png" width="400px">
+   <img src="https://user-images.githubusercontent.com/35976070/160056918-beabab9c-cdc3-4bc3-9be5-44a9b7774c88.png" width="400px">
+   <img src="https://user-images.githubusercontent.com/35976070/160056995-864b7972-3875-4668-913e-f37b2a43f8bd.png" width="400px">
 </div>
 
 # :eyes: Demo
 
-👉 Demo: <https://moveit.henriquetavares.com/>
+👉 Demo: <https://moveit-wheat-nine.vercel.app/>
 
 # :computer: Tecnologias
 
